@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **simone.cuccu3@gmail.com**
 
-- 📄 My curriculum [https://drive.google.com/file/d/18is13jmdPeMaoQGjZOOyQ6fF0xdH2j8B/view?usp=sharing](https://drive.google.com/file/d/18is13jmdPeMaoQGjZOOyQ6fF0xdH2j8B/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simonecuccu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simonecuccu" height="30" width="40" /></a>
